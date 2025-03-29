@@ -38,7 +38,7 @@ Home Automation Repo
 ## Step 3: Install Docker Compose
 1. Install Docker Compose using `pip3`:
    ```bash
-   sudo pip3 install docker-compose
+   sudo apt install -y docker-compose
    ```
 2. Verify installation:
    ```bash
